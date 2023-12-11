@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 Alunos: Tharlis David e Francisco de Assis
+=======
+# Alunos
+- Gabriel Lucas
+- Tharlis David
+- Francisco de Assis
+>>>>>>> 625a3c200708cd55f841c3509bc590f30f3281aa
 
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
